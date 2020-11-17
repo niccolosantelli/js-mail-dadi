@@ -17,8 +17,3 @@ if (autorizzato == true) {
 } else {
   document.getElementById('risultato').innerHTML= " Non sei autorizzato!"
 }
-
-//document.getElementById('risultato').innerHTML = emailUtenti [1];
-
-
-// se email in lista stampa messaggio
